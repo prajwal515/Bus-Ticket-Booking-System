@@ -1,0 +1,14 @@
+SMAP
+print_005fticket_jsp.java
+JSP
+*S JSP
+*F
++ 0 print_ticket.jsp
+print_ticket.jsp
+*L
+1,3:47
+4:50,3
+5,8:53
+14,32:61
+45,2:93
+*E
