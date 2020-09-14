@@ -1,4 +1,4 @@
 # bus-seat-reservation-system
-bus seats Resevation using JSP , HTML and MYSQL.
+Bus Ticket Booking System using JSP , HTML and MYSQL.
 
 
